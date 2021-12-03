@@ -12,11 +12,22 @@ https://www.figma.com/file/chYdc4L2JOrvJaT8UJFXl1/NFT-e-commerce-Demo?node-id=0%
 
 ### Loguearse en la página
 
+#### Programación
+
 - Permitir que un script de JS ejecutandose en la paǵina acceda a metamask.
+
+#### Diseño
+ 
 
 ### Listar NFTs en billetera
 
+#### Programación
+
 - Usar metamask para listar todos los token ERC721 que tiene el usuario
+
+#### Diseño
+
+
 
 ### Buscar marketplace
 
@@ -24,7 +35,12 @@ https://www.figma.com/file/chYdc4L2JOrvJaT8UJFXl1/NFT-e-commerce-Demo?node-id=0%
 
 ### Comprar, vender, regalar NFT
 
+#### Programación
+
 - Creación de un contrato inteligente que cobre comision por el servicio. Modificar el código de ejemplo (FemiToken.sol) para que descuente la comisión en caso de venta.
+
+#### Diseño
+
 <!-- #endregion -->
 
 ```python
