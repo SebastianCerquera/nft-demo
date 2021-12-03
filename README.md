@@ -1,11 +1,35 @@
 # nft-demo
 
+```python
 
-### Completado
+```
 
-### Pendiente
-- Automatizar usando docker file
+<!-- #region -->
+## Historias de usuario
 
+https://www.figma.com/file/chYdc4L2JOrvJaT8UJFXl1/NFT-e-commerce-Demo?node-id=0%3A1
+
+
+### Loguearse en la página
+
+- Permitir que un script de JS ejecutandose en la paǵina acceda a metamask.
+
+### Listar NFTs en billetera
+
+- Usar metamask para listar todos los token ERC721 que tiene el usuario
+
+### Buscar marketplace
+
+### Página NFT
+
+### Comprar, vender, regalar NFT
+
+- Creación de un contrato inteligente que cobre comision por el servicio. Modificar el código de ejemplo (FemiToken.sol) para que descuente la comisión en caso de venta.
+<!-- #endregion -->
+
+```python
+
+```
 
 ## Entorno dockerizado
 
